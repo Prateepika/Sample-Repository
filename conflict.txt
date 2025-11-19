@@ -1,1 +1,2 @@
-CReated conflict file in master
+Created conflict file in master
+new data line in master
